@@ -2,64 +2,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "CY350 Lab 5 Website",
+    "title": "CY350 Lab 5",
     "section": "",
-    "text": "This website was created with Quarto for In-Class Lab 5. The goal of the lab is to build a simple website, render it locally, publish it online, and share the published URL with the instructor.\n\n\n\n\n\n\nNote\n\n\n\nThis site is intentionally small: it demonstrates a home page, navigation, custom styling, and static HTML output that can be published with GitHub Pages or Netlify."
-  },
-  {
-    "objectID": "index.html#overview",
-    "href": "index.html#overview",
-    "title": "CY350 Lab 5 Website",
-    "section": "",
-    "text": "This website was created with Quarto for In-Class Lab 5. The goal of the lab is to build a simple website, render it locally, publish it online, and share the published URL with the instructor.\n\n\n\n\n\n\nNote\n\n\n\nThis site is intentionally small: it demonstrates a home page, navigation, custom styling, and static HTML output that can be published with GitHub Pages or Netlify."
-  },
-  {
-    "objectID": "index.html#network-concepts",
-    "href": "index.html#network-concepts",
-    "title": "CY350 Lab 5 Website",
-    "section": "Network Concepts",
-    "text": "Network Concepts\n\n\n\nLayer\nExample\nWhy it matters\n\n\n\n\nApplication\nHTTP, DNS\nDefines the services users interact with\n\n\nTransport\nTCP, UDP\nMoves application data between hosts\n\n\nNetwork\nIP, ICMP\nRoutes packets across networks\n\n\nLink\nEthernet, Wi-Fi\nHandles local network delivery"
-  },
-  {
-    "objectID": "index.html#lab-checklist",
-    "href": "index.html#lab-checklist",
-    "title": "CY350 Lab 5 Website",
-    "section": "Lab Checklist",
-    "text": "Lab Checklist\n\nCreated a Quarto website project.\nAdded custom content for CY350.\nRendered the site into static HTML.\nPrepared the site for publishing."
-  },
-  {
-    "objectID": "index.html#next-step",
-    "href": "index.html#next-step",
-    "title": "CY350 Lab 5 Website",
-    "section": "Next Step",
-    "text": "Next Step\nAfter publishing, submit the public website URL for credit."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About This Site",
-    "section": "",
-    "text": "This Quarto website is a short demonstration for CY350 Computer Networks. It shows that the site can be written in .qmd files, rendered into HTML, and hosted as a static website."
-  },
-  {
-    "objectID": "about.html#purpose",
-    "href": "about.html#purpose",
-    "title": "About This Site",
-    "section": "",
-    "text": "This Quarto website is a short demonstration for CY350 Computer Networks. It shows that the site can be written in .qmd files, rendered into HTML, and hosted as a static website."
-  },
-  {
-    "objectID": "about.html#local-commands",
-    "href": "about.html#local-commands",
-    "title": "About This Site",
-    "section": "Local Commands",
-    "text": "Local Commands\nFrom this lab folder:\nquarto preview\nquarto render\nThe rendered files are written to docs/, which is convenient for GitHub Pages if the repository is configured to publish from the main branch and /docs folder."
-  },
-  {
-    "objectID": "about.html#publishing-options",
-    "href": "about.html#publishing-options",
-    "title": "About This Site",
-    "section": "Publishing Options",
-    "text": "Publishing Options\nThe lab can be completed with either GitHub Pages or Netlify. GitHub Pages is a good fit for this folder because the rendered output is already in docs/. Netlify also works by publishing the rendered site directory."
+    "text": "Hi, this is my website for CY350 Lab 5.\nI made it with Quarto and published it with GitHub Pages.\nThat’s it. Simple site, public link, lab done."
   }
 ]
