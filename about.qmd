@@ -1,0 +1,22 @@
+---
+title: "About This Site"
+---
+
+## Purpose
+
+This Quarto website is a short demonstration for CY350 Computer Networks. It shows that the site can be written in `.qmd` files, rendered into HTML, and hosted as a static website.
+
+## Local Commands
+
+From this lab folder:
+
+```bash
+quarto preview
+quarto render
+```
+
+The rendered files are written to `docs/`, which is convenient for GitHub Pages if the repository is configured to publish from the `main` branch and `/docs` folder.
+
+## Publishing Options
+
+The lab can be completed with either GitHub Pages or Netlify. GitHub Pages is a good fit for this folder because the rendered output is already in `docs/`. Netlify also works by publishing the rendered site directory.

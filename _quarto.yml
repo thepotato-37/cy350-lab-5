@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - .nojekyll
+
+website:
+  title: "CY350 Lab 5"
+  navbar:
+    background: "#19324d"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full

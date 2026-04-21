@@ -1,0 +1,33 @@
+---
+title: "CY350 Lab 5 Website"
+subtitle: "A simple Quarto site for Computer Networks"
+date: "April 21, 2026"
+---
+
+## Overview
+
+This website was created with Quarto for In-Class Lab 5. The goal of the lab is to build a simple website, render it locally, publish it online, and share the published URL with the instructor.
+
+::: {.callout-note}
+This site is intentionally small: it demonstrates a home page, navigation, custom styling, and static HTML output that can be published with GitHub Pages or Netlify.
+:::
+
+## Network Concepts
+
+| Layer | Example | Why it matters |
+|---|---|---|
+| Application | HTTP, DNS | Defines the services users interact with |
+| Transport | TCP, UDP | Moves application data between hosts |
+| Network | IP, ICMP | Routes packets across networks |
+| Link | Ethernet, Wi-Fi | Handles local network delivery |
+
+## Lab Checklist
+
+- Created a Quarto website project.
+- Added custom content for CY350.
+- Rendered the site into static HTML.
+- Prepared the site for publishing.
+
+## Next Step
+
+After publishing, submit the public website URL for credit.

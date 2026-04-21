@@ -1,0 +1,39 @@
+:root {
+  --lab-ink: #17202a;
+  --lab-blue: #19324d;
+  --lab-teal: #0f766e;
+  --lab-paper: #f7f9fb;
+}
+
+body {
+  color: var(--lab-ink);
+  background: var(--lab-paper);
+}
+
+.quarto-title-block {
+  padding: 2.5rem 0 1.75rem;
+  border-bottom: 4px solid var(--lab-teal);
+}
+
+.quarto-title h1.title {
+  font-weight: 700;
+}
+
+main.content {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 2rem 1.25rem 4rem;
+  background: #ffffff;
+}
+
+table {
+  background: #ffffff;
+}
+
+.callout-note {
+  border-left-color: var(--lab-teal);
+}
+
+a {
+  color: var(--lab-teal);
+}
